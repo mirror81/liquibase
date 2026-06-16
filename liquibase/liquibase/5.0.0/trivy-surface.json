@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "019ecbee-e9d3-7ccb-8a04-b3ee1ec48631",
-  "CreatedAt": "2026-06-15T15:38:12.819839649Z",
+  "ReportID": "019ed0ec-6a4a-720b-a18e-7d9295c2a8ba",
+  "CreatedAt": "2026-06-16T14:53:35.178135263Z",
   "ArtifactID": "sha256:f3f0403909cca946fa9a23a46a863476a54e13bed63e1ba670bc999bb398297e",
   "ArtifactName": "liquibase/liquibase:5.0.0",
   "ArtifactType": "container_image",
@@ -12543,7 +12543,7 @@
             "https://www.cve.org/CVERecord?id=CVE-2026-45447"
           ],
           "PublishedDate": "2026-06-09T17:17:19.277Z",
-          "LastModifiedDate": "2026-06-10T15:16:35.16Z"
+          "LastModifiedDate": "2026-06-16T02:56:50.707Z"
         },
         {
           "VulnerabilityID": "CVE-2026-45447",
@@ -12616,7 +12616,7 @@
             "https://www.cve.org/CVERecord?id=CVE-2026-45447"
           ],
           "PublishedDate": "2026-06-09T17:17:19.277Z",
-          "LastModifiedDate": "2026-06-10T15:16:35.16Z"
+          "LastModifiedDate": "2026-06-16T02:56:50.707Z"
         }
       ]
     },
@@ -12948,7 +12948,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 2,
+            "amazon": 3,
             "azure": 2,
             "bitnami": 3,
             "cbl-mariner": 2,
@@ -13102,7 +13102,7 @@
           ],
           "VendorSeverity": {
             "alma": 3,
-            "amazon": 3,
+            "amazon": 2,
             "azure": 3,
             "bitnami": 3,
             "oracle-oval": 3,
@@ -13541,6 +13541,7 @@
             "https://linux.oracle.com/errata/ELSA-2026-22112.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-33814",
             "https://pkg.go.dev/vuln/GO-2026-4918",
+            "https://ubuntu.com/security/notices/USN-8430-1",
             "https://www.cve.org/CVERecord?id=CVE-2026-33814"
           ],
           "PublishedDate": "2026-05-07T20:16:42.88Z",
