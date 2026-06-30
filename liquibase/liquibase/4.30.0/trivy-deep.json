@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "019f13ae-aef1-78b3-a170-f718a0f6e32b",
-  "CreatedAt": "2026-06-29T14:00:42.993571465Z",
+  "ReportID": "019f186b-a601-7aa2-8d1e-dad159a77f20",
+  "CreatedAt": "2026-06-30T12:05:35.873698138Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem",
   "Results": [
@@ -616,6 +616,9 @@
             }
           },
           "References": [
+            "https://access.redhat.com/errata/RHSA-2026:19098",
+            "https://access.redhat.com/errata/RHSA-2026:22304",
+            "https://access.redhat.com/errata/RHSA-2026:24348",
             "https://access.redhat.com/errata/RHSA-2026:25030",
             "https://access.redhat.com/security/cve/CVE-2026-42198",
             "https://bugzilla.redhat.com/2463857",
@@ -629,10 +632,11 @@
             "https://linux.oracle.com/cve/CVE-2026-42198.html",
             "https://linux.oracle.com/errata/ELSA-2026-25030.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-42198",
+            "https://security.access.redhat.com/data/csaf/v2/vex/2026/cve-2026-42198.json",
             "https://www.cve.org/CVERecord?id=CVE-2026-42198"
           ],
           "PublishedDate": "2026-04-29T16:16:25.427Z",
-          "LastModifiedDate": "2026-06-17T10:47:30.097Z"
+          "LastModifiedDate": "2026-06-30T03:19:34.747Z"
         }
       ]
     }
