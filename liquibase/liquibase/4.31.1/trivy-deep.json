@@ -3,8 +3,8 @@
   "Trivy": {
     "Version": "0.69.3"
   },
-  "ReportID": "019f418a-7b5b-75f6-af2a-3ccff41c962b",
-  "CreatedAt": "2026-07-08T11:43:42.427392374Z",
+  "ReportID": "019f4bf9-9753-74a0-a156-7caf55b2a79b",
+  "CreatedAt": "2026-07-10T12:21:16.243304949Z",
   "ArtifactName": "/tmp/extracted-deps",
   "ArtifactType": "filesystem",
   "Results": [
@@ -3231,7 +3231,7 @@
             "azure": 3,
             "ghsa": 3,
             "nvd": 2,
-            "oracle-oval": 3,
+            "oracle-oval": 2,
             "redhat": 2,
             "rocky": 3,
             "ubuntu": 2
@@ -3266,7 +3266,7 @@
             "https://github.com/urllib3/urllib3",
             "https://github.com/urllib3/urllib3/security/advisories/GHSA-qccp-gfcp-xxvc",
             "https://linux.oracle.com/cve/CVE-2026-44431.html",
-            "https://linux.oracle.com/errata/ELSA-2026-32992.html",
+            "https://linux.oracle.com/errata/ELSA-2026-36732.html",
             "https://lists.debian.org/debian-lts-announce/2026/06/msg00040.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-44431",
             "https://ubuntu.com/security/notices/USN-8379-1",
@@ -3309,7 +3309,7 @@
             "azure": 3,
             "ghsa": 3,
             "nvd": 2,
-            "oracle-oval": 3,
+            "oracle-oval": 2,
             "redhat": 2,
             "rocky": 3,
             "ubuntu": 2
@@ -3344,7 +3344,7 @@
             "https://github.com/urllib3/urllib3",
             "https://github.com/urllib3/urllib3/security/advisories/GHSA-qccp-gfcp-xxvc",
             "https://linux.oracle.com/cve/CVE-2026-44431.html",
-            "https://linux.oracle.com/errata/ELSA-2026-32992.html",
+            "https://linux.oracle.com/errata/ELSA-2026-36732.html",
             "https://lists.debian.org/debian-lts-announce/2026/06/msg00040.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-44431",
             "https://ubuntu.com/security/notices/USN-8379-1",
@@ -3387,7 +3387,7 @@
             "azure": 3,
             "ghsa": 3,
             "nvd": 2,
-            "oracle-oval": 3,
+            "oracle-oval": 2,
             "redhat": 2,
             "rocky": 3,
             "ubuntu": 2
@@ -3422,7 +3422,7 @@
             "https://github.com/urllib3/urllib3",
             "https://github.com/urllib3/urllib3/security/advisories/GHSA-qccp-gfcp-xxvc",
             "https://linux.oracle.com/cve/CVE-2026-44431.html",
-            "https://linux.oracle.com/errata/ELSA-2026-32992.html",
+            "https://linux.oracle.com/errata/ELSA-2026-36732.html",
             "https://lists.debian.org/debian-lts-announce/2026/06/msg00040.html",
             "https://nvd.nist.gov/vuln/detail/CVE-2026-44431",
             "https://ubuntu.com/security/notices/USN-8379-1",
